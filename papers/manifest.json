@@ -1,0 +1,63 @@
+{
+  "pdf_count": 7,
+  "papers": [
+    {
+      "file": "01_Tao_2016_TPAMI_Point_and_Line_Consistency.pdf",
+      "doi": "10.1109/TPAMI.2015.2477811",
+      "source": "https://cseweb.ucsd.edu/~ravir/specular_final.pdf",
+      "pages": 14,
+      "bytes": 9392047,
+      "sha256": "055c86549edfe9bf3a8f647741ae475eab4ca7d14a1e18e2371c13e38706dcc9"
+    },
+    {
+      "file": "02_Wang_2018_TPAMI_SVBRDF_Invariant.pdf",
+      "doi": "10.1109/TPAMI.2017.2680442",
+      "source": "https://cseweb.ucsd.edu/~ravir/pamibrdf.pdf",
+      "pages": 14,
+      "bytes": 17474545,
+      "sha256": "c8ba3ebe2dd07d2ec4fe5c70d63812865ffff307bf2b013fc1ef3ad564c3796f"
+    },
+    {
+      "file": "03_Cui_2024_TCSVT_Adaptive_Cross_Operator.pdf",
+      "doi": "10.1109/TCSVT.2023.3292884",
+      "source": "用户上传的 PDF",
+      "pages": 13,
+      "bytes": 8799406,
+      "sha256": "e022ef14bf8a7d2f18dda6a6c5e654448b504a23754d17609ae7a833ddcc2a23"
+    },
+    {
+      "file": "04_Wanner_2013_GCPR_Reflective_Transparent_EPI.pdf",
+      "doi": "10.1007/978-3-642-40602-7_1",
+      "source": "https://publications.lightfield-analysis.net/WG13_gcpr.pdf",
+      "pages": 10,
+      "bytes": 5712760,
+      "sha256": "375a650ffa54c56129a5e6fa55cac34698df360f6e3832cc6fec0d711c3a2d45"
+    },
+    {
+      "file": "05_Johannsen_2016_CVPR_Sparse_Light_Field_Coding.pdf",
+      "doi": "10.1109/CVPR.2016.355",
+      "source": "https://openaccess.thecvf.com/content_cvpr_2016/papers/Johannsen_What_Sparse_Light_CVPR_2016_paper.pdf",
+      "pages": 9,
+      "bytes": 1743133,
+      "sha256": "5c59e1d48bb46129a4d188a68a080f27e6bb33b6b6501d7a28884f636d55694f"
+    },
+    {
+      "file": "06_Alperovich_2018_CVPR_Light_Field_Intrinsics.pdf",
+      "doi": "10.1109/CVPR.2018.00953",
+      "source": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Alperovich_Light_Field_Intrinsics_CVPR_2018_paper.pdf",
+      "pages": 10,
+      "bytes": 3257309,
+      "sha256": "25c8f283067ab94cd8a31ea2de52e846c595a4ae925c816de982add314af9346"
+    },
+    {
+      "file": "07_Wetzstein_2011_ICCV_Refractive_Shape.pdf",
+      "doi": "10.1109/ICCV.2011.6126367",
+      "source": "https://www.cs.ubc.ca/labs/imager/tr/2011/RefractiveShapeFromLightFieldDistortion/RefractiveShapeFromLightFieldDistortion-Wetzstein2011.pdf",
+      "source_sha256": "667c23eddfb9c512e246ebf9e7004e5e008c5cebbc6a2a236194311873a8cdce",
+      "normalization": "Original author PDF was readable by PyMuPDF but had invalid linearized cross-references for pdfinfo; resaved with PyMuPDF without changing extracted text on any of the seven pages.",
+      "pages": 7,
+      "bytes": 4314099,
+      "sha256": "5585899238fb8a523c8b79c58490bd4e9abd3d99fae898c784d5fa56dddf4b9e"
+    }
+  ]
+}
